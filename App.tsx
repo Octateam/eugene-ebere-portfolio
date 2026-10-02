@@ -26,7 +26,7 @@ const projects: Project[] = [
   {
     id: 2,
     title: "Koletspace (Airbnb for eventspaces)",
-    category: "CEO • Product Design",
+    category: "Founder • Product Design",
     year: "2020 — Present",
     image: "https://picsum.photos/id/119/800/600",
     link: "https://www.koletspace.com/"
